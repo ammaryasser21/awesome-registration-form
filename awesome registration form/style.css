@@ -41,6 +41,9 @@ gap: 25px;
     display: block;
 }
 
+.hidden {
+display:none;
+}
 
 
 .container .form h2{
